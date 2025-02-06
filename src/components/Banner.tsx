@@ -153,10 +153,10 @@ const Banner = () => {
           {/* Ratings Column - 3 columns */}
           <div className="md:col-span-3 text-end space-y-6">
             <div className="flex justify-end -space-x-2">
-              <img src="public/avatar1.png" alt="Student" className="w-10 h-10 rounded-full border-2 border-white" />
-              <img src="public/avatar2.png" alt="Student" className="w-10 h-10 rounded-full border-2 border-white" />
-              <img src="public/avatar3.png" alt="Student" className="w-10 h-10 rounded-full border-2 border-white" />
-              <img src="public/avatar4.png" alt="Student" className="w-10 h-10 rounded-full border-2 border-white" />
+              <img src="/avatar1.png" alt="Student" className="w-10 h-10 rounded-full border-2 border-white" />
+              <img src="/avatar2.png" alt="Student" className="w-10 h-10 rounded-full border-2 border-white" />
+              <img src="/avatar3.png" alt="Student" className="w-10 h-10 rounded-full border-2 border-white" />
+              <img src="/avatar4.png" alt="Student" className="w-10 h-10 rounded-full border-2 border-white" />
             </div>
             <div className="flex justify-end">
               {[...Array(5)].map((_, i) => (
