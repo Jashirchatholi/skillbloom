@@ -13,14 +13,14 @@ const Testimonial = () => {
             <div className="flex -space-x-4">
               <div className="w-24 h-24 rounded-full border-4 border-white overflow-hidden bg-black flex items-center justify-center shadow-lg">
                 <img 
-                  src="public/tibco-logo-white.png.webp" 
+                  src="/tibco-logo-white.png.webp" 
                   alt="TIBCO" 
                   className="w-16 h-16 object-contain"
                 />
               </div>
               <div className="w-24 h-24 rounded-full border-4 border-white overflow-hidden shadow-lg">
                 <img 
-                  src="public/KimLoan-Tran.png" 
+                  src="/KimLoan-Tran.png" 
                   alt="Dr. KimLoan Tran" 
                   className="w-full h-full object-cover"
                 />
