@@ -86,19 +86,16 @@ const AboutUs = () => {
                 <div className="mb-6 relative">
                   <div className="mx-auto p-1 transform transition-transform duration-300 hover:scale-105">
                     <img 
-                      src="/public/A2JSX6VG9FuhRiGiZ3IaPuibl4.png" 
+                      src="/A2JSX6VG9FuhRiGiZ3IaPuibl4.png" 
                       alt="Shankar Mahesh"
                       className="w-full h-full"
                     />
                   </div>
                 </div>
-                <h3 className="text-xl font-bold text-[#2d2d5f] mb-2">Shankar Mahesh</h3>
+                <h3 className="text-xl font-bold text-[#2d2d5f] mb-2">Name the person</h3>
                 <p className="text-[#ff6b6b] font-medium mb-4">Co-Founder & CEO</p>
                 <div className="h-px w-16 bg-gray-200 mx-auto mb-4"></div>
-                <p className="text-gray-600 text-sm leading-relaxed">
-                  20+ years of software development experience in Motorola, Huawei, and Bydesign, 
-                  previously co-founded KaraokeGarage, and currently leading SkillBloom's team.
-                </p>
+                <p className="text-gray-600 text-sm leading-relaxed">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
               </div>
             </div>
 
@@ -108,20 +105,16 @@ const AboutUs = () => {
                 <div className="mb-6 relative">
                 <div className="mx-auto p-1 transform transition-transform duration-300 hover:scale-105">
                     <img 
-                      src="/public/A2JSX6VG9FuhRiGiZ3IaPuibl4.png" 
+                      src="/A2JSX6VG9FuhRiGiZ3IaPuibl4.png" 
                       alt="Shankar Mahesh"
                       className="w-full h-full"
                     />
                   </div>
                 </div>
-                <h3 className="text-xl font-bold text-[#2d2d5f] mb-2">Shivaranjan Kumar</h3>
+                <h3 className="text-xl font-bold text-[#2d2d5f] mb-2">Name the person</h3>
                 <p className="text-[#ff6b6b] font-medium mb-4">Co-Founder & CFO</p>
                 <div className="h-px w-16 bg-gray-200 mx-auto mb-4"></div>
-                <p className="text-gray-600 text-sm leading-relaxed">
-                  20+ years of software development experience in IBM & GE, previously co-founded 
-                  Karaoke Garage, and now helping educators grow their businesses and reach millions 
-                  of students.
-                </p>
+                <p className="text-gray-600 text-sm leading-relaxed">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
               </div>
             </div>
 
@@ -131,19 +124,16 @@ const AboutUs = () => {
                 <div className="mb-6 relative">
                 <div className="mx-auto p-1 transform transition-transform duration-300 hover:scale-105">
                     <img 
-                      src="/public/A2JSX6VG9FuhRiGiZ3IaPuibl4.png" 
+                      src="/A2JSX6VG9FuhRiGiZ3IaPuibl4.png" 
                       alt="Shankar Mahesh"
                       className="w-full h-full"
                     />
                   </div>
                 </div>
-                <h3 className="text-xl font-bold text-[#2d2d5f] mb-2">Sridhar Dubbaka</h3>
+                <h3 className="text-xl font-bold text-[#2d2d5f] mb-2">Name the person</h3>
                 <p className="text-[#ff6b6b] font-medium mb-4">Co-Founder & CTO</p>
                 <div className="h-px w-16 bg-gray-200 mx-auto mb-4"></div>
-                <p className="text-gray-600 text-sm leading-relaxed">
-                  20+ years of software development experience in Huawei and now leading the 
-                  technical vision and development of the SkillBloom platform.
-                </p>
+                <p className="text-gray-600 text-sm leading-relaxed">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
               </div>
             </div>
 
@@ -153,20 +143,16 @@ const AboutUs = () => {
                 <div className="mb-6 relative">
                 <div className="mx-auto p-1 transform transition-transform duration-300 hover:scale-105">
                     <img 
-                      src="/public/A2JSX6VG9FuhRiGiZ3IaPuibl4.png" 
+                      src="/A2JSX6VG9FuhRiGiZ3IaPuibl4.png" 
                       alt="Shankar Mahesh"
                       className="w-full h-full"
                     />
                   </div>
                 </div>
-                <h3 className="text-xl font-bold text-[#2d2d5f] mb-2">Hitesh Choudhary</h3>
+                <h3 className="text-xl font-bold text-[#2d2d5f] mb-2">Name the person</h3>
                 <p className="text-[#ff6b6b] font-medium mb-4">Co-Founder & Chief Evangelist</p>
                 <div className="h-px w-16 bg-gray-200 mx-auto mb-4"></div>
-                <p className="text-gray-600 text-sm leading-relaxed">
-                  Early customer of Learnyst helped in shaping the platform. Runs Chalcode on Learnyst. 
-                  Former founder of LCO (acquired), ex-CTO and Sr. Director at PW, now a full-time 
-                  YouTuber with two channels and a reach in 43 countries.
-                </p>
+                <p className="text-gray-600 text-sm leading-relaxed">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
               </div>
             </div>
           </div>
